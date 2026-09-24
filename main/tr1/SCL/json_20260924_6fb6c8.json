@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Lucas Ferreira",
+    "department": "VIP Services",
+    "email": "lucas.ferreira@sands.com.mo"
+  },
+  {
+    "name": "Mei Lin Chen",
+    "department": "Hotel Operations",
+    "email": "mei.lin.chen@sands.com.mo"
+  },
+  {
+    "name": "Rafael Mendes",
+    "department": "Gaming Compliance",
+    "email": "rafael.mendes@sands.com.mo"
+  },
+  {
+    "name": "Sofia Almeida",
+    "department": "Event Management",
+    "email": "sofia.almeida@sands.com.mo"
+  },
+  {
+    "name": "Kevin Wu",
+    "department": "IT Infrastructure",
+    "email": "kevin.wu@sands.com.mo"
+  },
+  {
+    "name": "Isabela Rocha",
+    "department": "Marketing & PR",
+    "email": "isabela.rocha@sands.com.mo"
+  },
+  {
+    "name": "André Pereira",
+    "department": "Food & Beverage",
+    "email": "andre.pereira@sands.com.mo"
+  },
+  {
+    "name": "Carla Sousa",
+    "department": "Human Resources",
+    "email": "carla.sousa@sands.com.mo"
+  }
+]
