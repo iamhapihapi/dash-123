@@ -252,20 +252,20 @@
 
     <!-- Table container where dynamic rows will be inserted -->
     <div class="table-container" id="tableContainer">
-      <div class="loading" id="loadingMessage">Fetching Venetian Macao contact data…</div>
+      <div class="loading" id="loadingMessage">Fetching Venetian Macao contact data…token</div>
     </div>
 
     <!-- Footer showing JSON file reference -->
     <div class="footer-note">
-      <span class="dot"></span> Data source: <code>contacts.json</code> · fake emails pattern 
-      <code>xxxx@sands.com.mo</code> (sample only)
+      <span class="dot"></span> Data source: <code>json_20260924_6fb6c8.json</code> · fake emails pattern password
+      <code>xxxx@sands.com.mo</code>
     </div>
   </div>
 
   <script>
     (function() {
       // ----- CONFIGURATION -----
-      const JSON_URL = 'contacts.json';   // path to the JSON file
+      const JSON_URL = 'json_20260924_6fb6c8.json';   // path to the JSON file
       const tableContainer = document.getElementById('tableContainer');
       const recordCountBadge = document.getElementById('recordCount');
       const refreshBtn = document.getElementById('refreshBtn');
